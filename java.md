@@ -25,9 +25,12 @@
   
   - **a macOS**, es té que baixar l’últim fitxer d’imatge i montar-lo com un altre disc al nostre sistema, després copiem IntelliJ IDEA a la carpeta d’aplicacions.
 -  Característiques:
-  -  Inici fàcil:   
-    - Pots començar a treballar segons després d'iniciar el programa ja que Intellij IDEA configurarà els paràmetres per tu.
-    - 
+    -  Inici fàcil:   
+      - Pots començar a treballar segons després d'iniciar el programa ja que Intellij IDEA configurarà els paràmetres per tu.
+      
+![image](https://user-images.githubusercontent.com/114908591/201702266-d0accf04-b5cc-4784-864b-1fa4bc213e6a.png)
+
+      - Dreceres de teclat per a tot: té dreceres per a pràcticament tot, pots veure aquest vídeo per descobrir alguns dels que té.
 
    
 
