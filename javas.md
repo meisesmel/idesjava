@@ -30,8 +30,8 @@
       
 ![image](https://user-images.githubusercontent.com/114908591/201702266-d0accf04-b5cc-4784-864b-1fa4bc213e6a.png)
 
-      - Dreceres de teclat per a tot: té dreceres per a pràcticament tot, pots veure aquest vídeo per descobrir alguns dels que té.
-
+    - Dreceres de teclat per a tot: té dreceres per a pràcticament tot: té dreceres per a pràcticament tot, pots veure aquest [vídeo]([https://www.youtube.com/watch?v=QYO5_riePOQ&ab_channel=IntelliJIDEAbyJetBrains](url)) per descobrir alguns dels que té.
+    - 
    
 
  
