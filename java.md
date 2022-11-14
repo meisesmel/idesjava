@@ -25,7 +25,9 @@
   
   - **a macOS**, es té que baixar l’últim fitxer d’imatge i montar-lo com un altre disc al nostre sistema, després copiem IntelliJ IDEA a la carpeta d’aplicacions.
 -  Característiques:
-  -  
+  -  Inici fàcil:   
+    - Pots començar a treballar segons després d'iniciar el programa ja que Intellij IDEA configurarà els paràmetres per tu.
+    - 
 
    
 
